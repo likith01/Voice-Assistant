@@ -4,7 +4,7 @@ import { ChatInterfaceComponent } from './components/chat-interface/chat-interfa
 
 const routes: Routes = [
   {
-		path: "chat",
+		path: "interface",
 		component: ChatInterfaceComponent
 	},
 ];
